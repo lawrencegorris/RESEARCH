@@ -57,6 +57,13 @@
  I personally have gained the most experience with Angular up to this point and I really like it's way of working and routing (once I got the hang of it).
 
  Haven't tried Vue or Svelte yet, but that will change pretty soon.
+ 
+ Update: Tried out Vue. Really liked it's simplicity for working with components. Haven't done any routing with it yet.
+
+### CSS Frameworks
+
+#### Tailwind
+Decided to try out Tailwind with a simple project (same project I used Vue with to try it out) and was a bit of trial and error at first getting it installed and running in the app, but after that was finished it was a breeze to work with. Really good documentation over at their website.
 
  ## Back End
  Content to follow soon as more research is done.
